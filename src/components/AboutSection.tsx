@@ -57,13 +57,15 @@ const AboutSection = () => {
             className="space-y-6"
           >
             <p className="text-muted-foreground leading-relaxed text-lg">
-              I'm a passionate Ruby on Rails developer who loves building secure, scalable web applications.
-              From authentication systems with Devise & JWT to role-based admin panels, I craft clean
-              architecture that stands the test of time.
+              I'm a passionate Ruby on Rails developer with a strong command of both React and backend development,
+              and I love building secure, scalable web applications. From authentication systems with Devise & JWT
+              to role-based admin panels, API development, and responsive user interfaces, I craft clean architecture
+              that stands the test of time.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              My experience spans API development, Active Storage with AWS S3 integration, dashboard analytics,
-              and multilingual applications supporting English and Japanese.
+              My experience spans backend development, RESTful API development, Active Storage with AWS S3 integration,
+              dashboard analytics, multilingual applications supporting English and Japanese, and working with databases
+              like PostgreSQL and MongoDB while building smooth frontend experiences with React.
             </p>
 
             <div className="grid grid-cols-3 gap-6 pt-6">

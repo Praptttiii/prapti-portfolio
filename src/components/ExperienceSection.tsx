@@ -3,28 +3,28 @@ import { useRef } from "react";
 
 const timeline = [
   {
-    period: "2024 — Present",
+    period: "Jul-2025 — Present",
     title: "Ruby on Rails Developer",
-    company: "Jesvid Technologies",
-    desc: "Building production-grade web applications with authentication (Devise, JWT, OTP), role-based access control, API development, Active Storage & AWS S3 integration, and dashboard analytics. Working on multilingual applications (English + Japanese).",
+    company: "Thinkbiz Technology Pvt Ltd",
+    desc: "Working full-time on-site in Ahmedabad as a Ruby on Rails Developer, developing and enhancing scalable web applications.",
   },
   {
-    period: "2024 (6 months)",
-    title: "Ruby on Rails Intern",
-    company: "Jesvid Technologies",
-    desc: "Trained in Ruby on Rails ecosystem — built CRUD applications, learned Active Storage, S3 integration, RSpec testing, and clean MVC architecture patterns.",
+    period: "Jan-2025 — Jun-2025",
+    title: "Ruby on Rails Developer Intern",
+    company: "Thinkbiz Technology Pvt Ltd",
+    desc: "Completed a full-time internship focused on scalable web applications, RESTful APIs with Ruby on Rails, database design with PostgreSQL and MySQL, authentication with Devise, role management, access control, RSpec testing, Git-based collaboration, code reviews, and Agile sprint participation.",
   },
   {
-    period: "2023 — 2024",
-    title: "Backend Development Training",
-    company: "Self-Learning & Coursework",
-    desc: "Deep dive into Rails ecosystem — Active Storage, AWS S3, RSpec testing, RESTful API design, and clean architecture patterns. Built multiple full-stack projects.",
+    period: "May 2023 — June 2023",
+    title: "Jr Software Engineer",
+    company: "ELLKAY",
+    desc: "Passionate Junior Software Engineer with hands-on experience in building web applications using modern technologies. Skilled in backend development, API design, and database management, with a strong focus on writing clean, efficient, and scalable code.",
   },
   {
-    period: "2022 — 2023",
-    title: "Web Development Foundations",
-    company: "Self-Learning",
-    desc: "Mastered HTML, CSS, JavaScript, Ruby, React, and TypeScript. Built foundational projects and learned MVC architecture and frontend frameworks.",
+    period: "May 2023 — June 2023",
+    title: "Android Developer",
+    company: "Oasis Infobyte · Internship",
+    desc: "Worked as an Android Developer Intern, building and improving mobile applications using modern development practices. Gained hands-on experience in coding, debugging, and implementing user-friendly features while collaborating in a team environment."
   },
 ];
 

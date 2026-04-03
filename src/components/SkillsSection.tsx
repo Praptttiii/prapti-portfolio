@@ -21,17 +21,16 @@ const categories = [
       { name: "JavaScript", level: 78 },
       { name: "HTML/CSS", level: 85 },
       { name: "Bootstrap", level: 78 },
-      { name: "ERB / HAML", level: 82 },
+      { name: "ERB", level: 82 },
     ],
   },
   {
     title: "Tools & DevOps",
     skills: [
-      { name: "AWS S3", level: 80 },
       { name: "GitHub", level: 88 },
       { name: "RSpec", level: 85 },
       { name: "Active Storage", level: 82 },
-      { name: "Heroku", level: 75 },
+      { name: "Postman", level: 82 },
     ],
   },
 ];
